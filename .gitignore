@@ -1,0 +1,24 @@
+# Virtual Environments
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Massive Datasets & Videos
+*.mp4
+*.mkv
+*.avi
+*.wav
+Multi label Audiotory Dataset from Diverse Indian Urban Environments/
+Indian_sounds_dataset/
+*.csv
+
+# Output Files (Generated dynamically)
+*.srt
+phase2_audio_events.json
+phase3_multimodal_events.json
+
+# IDEs & System
+.vscode/
+.idea/
+.DS_Store

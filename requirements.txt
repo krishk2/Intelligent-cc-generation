@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-hub
+mediapipe
+moviepy
+opencv-python
+librosa
+scikit-learn
+numpy<2.0
